@@ -1,2 +1,1 @@
-* Evan Winslow, Original Author <evan@elgg.org>
-* imoni
+* Jamiel Sheikh, Original Author <jamiel@overridelabs.com>
