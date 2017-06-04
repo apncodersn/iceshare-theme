@@ -32,7 +32,7 @@ if (isset($vars['class'])) {
 			<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=11&l=ez&f=ifr&linkID
 =ff55a2b1227ef801dff6ffa485b65a55&t=overridelabs-20&tracking_id=overridelabs-20" width="240" heig
 ht="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-			<?php echo elgg_view('page/elements/sidebar_alt', $vars); ?>
+			<?php //echo elgg_view('page/elements/sidebar_alt', $vars); ?>
 		</div>
 		<div class="elgg-body elgg-main">
 			<?php
